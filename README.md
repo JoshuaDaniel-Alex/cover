@@ -41,7 +41,7 @@ Publish the website in the LocalHost.
       margin: 0;
       padding: 0;
       background-color : rgb(140, 109, 172)
-      background-size: cover;
+      background-size:cover;
       background-position: center;
       color: black;
       background-color: brown;
@@ -112,6 +112,7 @@ Publish the website in the LocalHost.
   </style>
 </head>
 <body>
+  <h1 align="center">JOSHUA DANIEL A 25017654</h1>
   <div class="cover">
     <div class="top">SEC Insights</div>
     
@@ -138,6 +139,7 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 
-![alt text](image.png)
+![alt text](<Screenshot (71).png>)
+
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
